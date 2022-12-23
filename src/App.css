@@ -1,0 +1,10 @@
+.App{
+  text-align: center;
+}
+.userList{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 2% 10%;
+  background-color: black;
+}
